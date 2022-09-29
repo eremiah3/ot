@@ -25,9 +25,9 @@ body{
     margin-top: -70px;
     background-color: orangered;
 }
-.let{
+/* .let{
     display: flex;
-}
+} */
 .home{
     width: 120px;
     height: 30px;
@@ -69,5 +69,8 @@ span{
 }
 .h{
     margin-left: 50px;
-    width: 300px;
+    width: 500px;
+}
+.section{
+    text-align: center;
 }

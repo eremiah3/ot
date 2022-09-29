@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.bi-whatsapp,.bi-instagram{
+    margin-left: 10px;
+    color: purple;
+}
+.body-text{
+    margin-top: 50px;
+}
+#pic{
+    width: 40px;
+    border-radius: 90px;
+    height: 40px;
+    background-color: blue;
+}
+.header-tag{
+    width:190px;
+    margin-left: 60px;
+    margin-top: -50px;
+}
+.d-tag{
+    margin-left: 230px;
+    margin-top: -70px;
+    background-color: orangered;
+}
+.let{
+    display: flex;
+}
+.home{
+    width: 120px;
+    height: 30px;
+    background-color: orangered;
+    border: none;
+}
+.p-tag{
+    margin-left: 100px;
+}
+.col-mb{
+    display: flex;
+    text-align: center;
+}
+.body{
+    margin-top: 50px;
+}
+.p{
+    width: 200px;
+}
+h2{
+    width: 330px;
+}
+span{
+    color: orange;
+}
+.anchor-tag{
+    text-decoration: none;
+}
+.tags{
+    display: flex;
+}
+.view{
+    width: 170px;
+    height: 30px;
+    background-color: black;
+    border: none;
+    color: #fff;
+}
+.h{
+    margin-left: 100px;
+    width: 300px;
+}
+.item{
+    width: 200px;
+}
+.png{
+    height: 152px;
+    width: 186px;
+}

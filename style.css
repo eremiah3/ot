@@ -83,8 +83,8 @@ span{
 }
 .wrapper {
 	width: 800px;
-	min-height: auto;
-	margin: 20px auto;
+	/* min-height: auto; */
+	margin-left: -50px;
 }
 .wrapper ul {
 	list-style: none;

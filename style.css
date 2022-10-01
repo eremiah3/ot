@@ -82,7 +82,7 @@ span{
     text-align: center;
 }
 .wrapper {
-	width: 900px;
+	width: 800px;
 	min-height: auto;
 	margin: 20px auto;
 }
@@ -142,12 +142,7 @@ span{
 .wrapper #btnBox:checked~.btn-area .btn1 {
 	display: none;
 }
-.set{
-    background-color: #000;
-    /* margin-top: 300px; */
-    /* margin-left: 200px; */
-   
-}
+
 .cool{
     margin-top: 100px;
 }
@@ -167,7 +162,7 @@ h3{
 }
 #kay{
  margin-top: 80px;
- color: #fff;
+
 }
 .about{
     margin-top: -40px;
